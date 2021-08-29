@@ -1,0 +1,15 @@
+020220211737, 14,  "Stanley #2 Philips Screwdriver", 6.95, 200, 20%, 1112, 02/02/21 17:02:952 PM EST
+020220211738, 2234983,  "Wilson NCAA official softball - 1 doz", 55.0, 3, 0%, 165, 02/02/21 17:02:289 PM EST
+020220211738, 1111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 5, 10%, 40.46, 02/02/21 17:02:289 PM EST
+020220211738, 47831,  "8x10 picture frame", 4.95, 5, 10%, 22.27, 02/02/21 17:02:289 PM EST
+020220211740, 234887,  "2021 CSX train calendar", 12.95, 12, 15%, 132.09, 02/02/21 17:02:51 PM EST
+020220211740, 65435689,  "12x16 paper cutter with ruler", 35.95, 2, 0%, 71.9, 02/02/21 17:02:51 PM EST
+020220211740, 8543,  "Ritchey 1 inch threaded headset - silver", 45.0, 5, 10%, 202.5, 02/02/21 17:02:51 PM EST
+020220211742, 29741,  "Plush teddy bear 8 inch", 24.0, 12, 15%, 244.8, 02/02/21 17:02:149 PM EST
+020220211745, 2190,  "Hefty 30 gal with handles - box 40", 19.0, 5, 10%, 85.5, 02/02/21 17:02:262 PM EST
+020220211745, 228865,  "3M Super 33+ electrical tape", 3.5, 5, 10%, 15.75, 02/02/21 17:02:262 PM EST
+020220211748, 4762,  "HP copy paper ultra white - ream", 13.5, 12, 15%, 137.7, 02/02/21 17:02:781 PM EST
+020220211748, 1111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 21, 20%, 151.03, 02/02/21 17:02:781 PM EST
+020220211750, 97634,  "Campagnolo 12 spd crankset - 53/39 175mm", 750.0, 1, 0%, 750, 02/02/21 17:02:569 PM EST
+020220211750, 85456,  "Campagnolo 12 spd rear der", 350.0, 1, 0%, 350, 02/02/21 17:02:569 PM EST
+020220211751, 4762,  "HP copy paper ultra white - ream", 13.5, 12, 15%, 137.7, 02/02/21 17:02:553 PM EST
